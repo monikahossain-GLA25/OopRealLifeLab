@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="BankAccount (Encapsulation)/BankAccount (Encapsulation)..csproj" />
   <Project Path="OopRealLifeLab.csproj" />
+  <Project Path="ProductCatalog/ProductCatalog.csproj" />
 </Solution>
