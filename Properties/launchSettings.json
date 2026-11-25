@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OopRealLifeLab": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
