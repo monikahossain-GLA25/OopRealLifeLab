@@ -2,4 +2,6 @@
   <Project Path="BankAccount (Encapsulation)/BankAccount (Encapsulation)..csproj" />
   <Project Path="OopRealLifeLab.csproj" />
   <Project Path="ProductCatalog/ProductCatalog.csproj" />
+  <Project Path="Vehcile/Salary.csproj" />
+  <Project Path="Vehicles/Vehicles.csproj" Id="0615a05d-4a2e-4743-a213-cc4c68e08a92" />
 </Solution>
